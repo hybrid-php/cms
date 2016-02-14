@@ -1,0 +1,18 @@
+{
+  "name": "hybrid-php/cms",
+  "description": "Just CMS",
+  "keywords": ["hybrid", "php", "cms"],
+  "homepage": "http://just-cms.org/",
+  "authors": [
+    {
+      "name": "Memforis Group",
+      "homepage": "http://memforis.info/"
+    }
+  ],
+  "require": {
+    "hybrid-php/framework": "dev-master"
+  },
+  "autoload": {
+    "classmap": ["app/controllers", "app/models"]
+  }
+}
