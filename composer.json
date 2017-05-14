@@ -1,12 +1,12 @@
 {
   "name": "hybrid-php/cms",
-  "description": "Just CMS",
-  "keywords": ["hybrid", "php", "cms"],
+  "description": "JustCMS",
+  "keywords": ["hybrid", "php", "framework", "cms"],
   "homepage": "http://just-cms.org/",
   "authors": [
     {
       "name": "Memforis Group",
-      "homepage": "http://memforis.info/"
+      "homepage": "http://memforis.com/"
     }
   ],
   "require": {
